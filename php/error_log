@@ -1,0 +1,39 @@
+[07-Feb-2016 12:36:39 America/Denver] PHP Warning:  include(): Failed opening 'php/connection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 4
+[07-Feb-2016 12:36:39 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:36:39 America/Denver] PHP Notice:  Undefined variable: link in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:36:39 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  include(): Failed opening 'php/connection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 4
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:36:40 America/Denver] PHP Notice:  Undefined variable: link in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  include(): Failed opening 'php/connection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 4
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:36:40 America/Denver] PHP Notice:  Undefined variable: link in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  include(): Failed opening 'php/connection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 4
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:36:40 America/Denver] PHP Notice:  Undefined variable: link in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:36:40 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:40:24 America/Denver] PHP Warning:  include(): Failed opening 'php/connection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 4
+[07-Feb-2016 12:40:24 America/Denver] PHP Notice:  Undefined index: data in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:40:24 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:40:24 America/Denver] PHP Notice:  Undefined variable: link in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:40:24 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:41:43 America/Denver] PHP Warning:  include(): Failed opening 'php/connection.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 4
+[07-Feb-2016 12:41:43 America/Denver] PHP Notice:  Undefined index: date in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 6
+[07-Feb-2016 12:41:43 America/Denver] PHP Notice:  Undefined index: data in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:41:43 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:41:43 America/Denver] PHP Notice:  Undefined variable: link in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:41:43 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 12
+[07-Feb-2016 12:43:01 America/Denver] PHP Notice:  Undefined index: date in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 6
+[07-Feb-2016 12:43:01 America/Denver] PHP Notice:  Undefined index: data in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:43:01 America/Denver] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:44:02 America/Denver] PHP Notice:  Undefined index: date in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 6
+[07-Feb-2016 12:44:02 America/Denver] PHP Notice:  Undefined index: data in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:45:13 America/Denver] PHP Notice:  Undefined index: date in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 6
+[07-Feb-2016 12:45:13 America/Denver] PHP Notice:  Undefined index: data in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 12:46:44 America/Denver] PHP Notice:  Undefined index: date in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 6
+[07-Feb-2016 12:46:44 America/Denver] PHP Notice:  Undefined index: data in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 10
+[07-Feb-2016 13:11:05 America/Denver] PHP Notice:  Undefined index: date in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 6
+[07-Feb-2016 13:11:05 America/Denver] PHP Notice:  Undefined index: date in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 6
+[07-Feb-2016 13:11:05 America/Denver] PHP Notice:  Undefined index: date in /home5/pscoffic/public_html/demo/mySQL/php/updatedata.php on line 6

@@ -1,0 +1,74 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+
+
+.jumbotron-fluid {
+    background: url('../imgs/journal.jpg') center center no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+#logout {
+    display: none;
+}
+
+.spacer {
+    height:20vh;
+}
+
+.spacer100{
+    height: 75px;
+}
+
+.main {
+    background-color: rgba(234, 243, 251, 0.95);
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.main h1 {
+    font-size: 3em;
+}
+
+.main p {
+    font-size: 1.5em;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.main a {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+#register {
+    margin: 15px;
+}
+
+#submit {
+    width: auto;
+    margin-left: 15px;
+}
+
+#change {
+    margin-right: 10px;
+    height: 40px;
+}
+
+#page {
+    height: 75%;
+}
+
+@media screen and (max-width: 1000px) {
+    .main h1{
+        font-size: 1.5em;
+    }
+    
+    .main p{
+        font-size: 1em;
+    }
+    
